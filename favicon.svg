@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="엔지니어랩 학습 가이드 아이콘">
+  <rect width="64" height="64" rx="14" fill="#112b46"/>
+  <path d="M17 15h30v8H26v7h17v8H26v7h21v8H17z" fill="#ffffff"/>
+  <path d="M47 15v8h-8z" fill="#54c8b2"/>
+</svg>
